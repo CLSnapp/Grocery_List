@@ -1,0 +1,84 @@
+h1 {
+  color: deepskyblue;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(13, 84, 125);
+  margin-left: 20px;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+  color: rgb(5, 20, 149);
+  margin-top: 0;
+}
+
+.category1 {
+  display: flex;
+  border: dotted;
+  color: rgb(13, 84, 125);
+  margin: 10px;
+  background-color: rgb(184, 172, 155);
+}
+
+.list {
+  display: flex;
+}
+
+.foodtype1 {
+  border: dotted 4px rgb(0, 183, 255);
+  margin: 10px;
+  padding: 20px;
+  width: 20%;
+  background-color: rgb(154, 233, 235);
+}
+.foodtype2 {
+  border: dotted 4px rgb(154, 233, 235);
+  margin: 10px;
+  padding: 20px;
+  width: 20%;
+  background-color: rgb(0, 183, 255);
+}
+
+.picture1 {
+  border: dotted 4px rgb(0, 183, 255);
+  margin: 10px;
+  padding: 20px;
+  width: 20%;
+  background-color: rgb(154, 233, 235);
+}
+
+.category2 {
+  display: flex;
+  border: dashed;
+  color: rgb(13, 84, 125);
+  margin: 10px;
+  background-color: rgb(226, 198, 162);
+}
+
+.foodtype3 {
+  border: dotted 4px rgb(154, 233, 235);
+  margin: 10px;
+  padding: 20px;
+  width: 20%;
+  background-color: rgb(0, 183, 255);
+}
+
+.foodtype4 {
+  border: dotted 4px rgb(0, 183, 255);
+  margin: 10px;
+  padding: 20px;
+  width: 20%;
+  background-color: rgb(0154, 233, 235);
+}
+
+.picture2 {
+  border: dotted 4px rgb(154, 233, 235);
+  margin: 10px;
+  padding: 20px;
+  width: 20%;
+  background-color: rgb(0, 183, 255);
+}
